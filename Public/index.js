@@ -70,7 +70,7 @@ loginClose.addEventListener('click', () =>{
 
     // Typing effect with js in main section
     var typed = new Typed('.typinjs', {
-      strings: ['Krishna Singh Rathore.', 'a Developer.', 'an Animator',"Graphic Designer","a Human","a DeadProgerammer"],
+      strings: ['Krishna Singh Rathore.', 'a Developer.', 'an Animator',"Graphic Designer","a Human","a DeadProgerammer", "an Artist"],
       typeSpeed: 150,
       backSpeed: 150,
       loop: true
