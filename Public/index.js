@@ -69,12 +69,12 @@ loginClose.addEventListener('click', () =>{
 // const typingInterval = setInterval(typeText, typingSpeed); */
 
     // Typing effect with js in main section
-    var typed = new Typed('.typinjs', {
-      strings: ['Krishna Singh Rathore.', 'a Developer.', 'an Animator',"Graphic Designer","a Human","a DeadProgerammer", "an Artist"],
-      typeSpeed: 150,
-      backSpeed: 150,
-      loop: true
-  });
+//     var typed = new Typed('.typinjs', {
+//       strings: ['Krishna Singh Rathore.', 'a Developer.', 'an Animator',"Graphic Designer","a Human","a DeadProgerammer"],
+//       typeSpeed: 150,
+//       backSpeed: 150,
+//       loop: true
+//   });
 
 
 //   slider js file
