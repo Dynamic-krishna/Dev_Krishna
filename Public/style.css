@@ -676,7 +676,7 @@ span.bgfil {
   border: 3px solid;
 }
 div#insertknowlege {
-  display: ruby-text;
+  /* display: ruby-text; */
 }
 .education {
   display: flex;
@@ -1008,3 +1008,5 @@ li.imgbtn:hover{
   /* border: 2px solid; */
   box-shadow: 1px 1px 5px rgb(118 69 69 / 20%), inset 1px 1px 5px rgb(116 189 182);
   border-radius: 50%;
+}
+
